@@ -66,7 +66,7 @@
 <br>
 
 <h2> 🤝🏻 Connect with Me </h2>
-&nbsp; <a href="mailto:k-duho@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="mailto:dev.kimduho@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 ⭐️ From [k-duho](https://github.com/k-duho)
 
