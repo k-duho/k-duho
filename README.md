@@ -55,7 +55,8 @@
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-duho&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/k-duho/github-readme-stats)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=k-duho&text_color=daf7dc&bg_color=151515))
+
 
 <h2>Projects</h2>
 
