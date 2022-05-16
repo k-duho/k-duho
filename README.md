@@ -57,8 +57,15 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-duho&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
 
+<h2>Projects</h2>
 
-<h3> 🤝🏻 Connect with Me </h3>
+[Notion link](notion.link)
+
+
+
+<br>
+
+<h2> 🤝🏻 Connect with Me </h2>
 &nbsp; <a href="mailto:k-duho@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 
 ⭐️ From [k-duho](https://github.com/k-duho)
