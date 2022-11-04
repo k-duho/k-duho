@@ -2,12 +2,12 @@
 
 <h2> 👨🏻‍💻 About Me </h2>
 
-- 🔭 &nbsp; 루비온레일즈로 웹개발을 하고있습니다.
+- 🔭 &nbsp; Ruby on Railsでウェブアプリ開発をしています。
 
 <h2>🛠 Tech Stack</h2>
 
 <details>
-  <summary>전문적인 지식을 갖추고 있고 기술적으로 리드가 가능한 레벨</summary>
+  <summary>技術的にリードができる</summary>
   <div markdown="1">
   </div>
 </details>
@@ -15,7 +15,7 @@
 <br>
 
 <details>
-  <summary>프로젝트에서의 풍부한 사용 경험이 있어, 혼자서 업무 대응이 가능한 레벨</summary>
+  <summary>業務で使用経験があり、一人でも対応できる</summary>
   <br>
   <div markdown="1">
 
@@ -27,7 +27,7 @@
 <br>
 
 <details>
-  <summary>기본적인 업무 대응은 가능하나, 도움이 필요할 수 있는 레벨</summary>
+  <summary>基礎知識を持っている</summary>
   <br>
   <div markdown="1">
 
@@ -41,7 +41,7 @@
 <br>
 
 <details>
-  <summary>공부중</summary>
+  <summary>勉強中</summary>
   <br>
   <div markdown="1">
 
@@ -58,11 +58,6 @@
 
 </br>
 
-
-
-<h2>Projects</h2>
-
-[Notion link](notion.link)
 
 
 
