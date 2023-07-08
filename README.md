@@ -53,7 +53,7 @@
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=k-duho&show_icons=true&theme=radical">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-duho&layout=Demo&theme=dark">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k-duho&layout=compact&theme=radical">
 
 
 </br>
